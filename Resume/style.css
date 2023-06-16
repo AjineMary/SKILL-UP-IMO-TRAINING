@@ -1,0 +1,28 @@
+img{
+    border-radius: 2cm;
+    margin-right: 1cm;
+}
+.first{
+    display: flex;
+    padding: .5cm;
+}
+.second{
+    display: flex;
+    padding-left: 0.3cm;
+}
+.second1 p strong{
+    margin-left: 10px;
+}
+.second2 p strong{
+    margin-left: 3cm;
+}
+.second2{
+    margin-left: 1cm;
+}
+.third{
+    display: flex;
+    padding-left: 0.3cm;
+}
+.third2{
+    padding-left: 0.5cm;
+}
